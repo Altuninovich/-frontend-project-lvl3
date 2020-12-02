@@ -1,4 +1,3 @@
-[![Node.js CI](https://github.com/Altuninovich/frontend-project-lvl3/workflows/Node.js%20CI/badge.svg?branch=master&event=push)](https://github.com/Altuninovich/frontend-project-lvl3/actions)
 <a href="https://codeclimate.com/github/Altuninovich/frontend-project-lvl3/maintainability"><img src="https://api.codeclimate.com/v1/badges/468693a6ff577fc31a60/maintainability" /></a>
 <a href="https://codeclimate.com/github/Altuninovich/frontend-project-lvl3/test_coverage"><img src="https://api.codeclimate.com/v1/badges/468693a6ff577fc31a60/test_coverage" /></a>
 
