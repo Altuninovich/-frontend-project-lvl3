@@ -11,14 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Altuninovich/rss.git"
+    "url": "https://github.com/Altuninovich/-frontend-project-lvl3.git"
   },
   "author": "Altunin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Altuninovich/rss/issues"
+    "url": "https://github.com/Altuninovich/-frontend-project-lvl3.git"
   },
-  "homepage": "https://altuninovich.github.io/rss/",
   "devDependencies": {
     "@babel/cli": "^7.7.4",
     "@babel/core": "^7.7.4",
