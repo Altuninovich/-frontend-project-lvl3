@@ -9,3 +9,7 @@ https://admiring-engelbart-e75d37.netlify.app/
 - https://habr.com/ru/rss/all/all/
 - https://www.mk.ru/rss/index.xml
 - http://lorem-rss.herokuapp.com/feed?unit=second&interval=5
+## screenshots
+![alt text](screenshots/rss.png "Вход")
+![alt text](screenshots/rss-add-adres.png "Создание")
+![alt text](screenshots/rss-news.png "Добавление")
